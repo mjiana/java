@@ -9,8 +9,8 @@
 + 업로드 범위 (프로그램 설치 제외) Upload range (Excluding program installation)  
   - chapter3-chapter29 
   - 교안 목차 Table of Contents  
-  * chapter1 : Understanding the Java language
-  * chapter2 : JDK and eclipse install and settings
+      * chapter1 : Understanding the Java language
+      * chapter2 : JDK and eclipse install and settings
   * chapter3 : Annotation, DataType, Constant, Type Transformation, Operator  
   * chapter4 : if , switch  
   * chapter5 : while, for, do ~ while, break, continue, label  
