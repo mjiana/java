@@ -1,15 +1,15 @@
 # java  
 ### 학원 수업 내용 업로드 Upload the contents of the academy class   
-* 수업기간 class period of time  
-  * 2021.04.13-2021.05.04    
-* 프로그래밍 언어, 프로그램  programming language, programs
-  * java(JDK 8), mysql(5.6.51)
-  * mysql-connector-java-5.1.49-bin.jar
-  * eclipse-java v2020.06
-* 업로드 범위 (프로그램 설치 제외) Upload range (Excluding program installation)  
-  * chapter3-chapter29 
-  * 교안 목차 Table of Contents  
-   * chapter1 : Understanding the Java language
++ 수업기간 class period of time  
+  - 2021.04.13-2021.05.04    
++ 프로그래밍 언어, 프로그램  programming language, programs
+  - java(JDK 8), mysql(5.6.51)
+  - mysql-connector-java-5.1.49-bin.jar
+  - eclipse-java v2020.06
++ 업로드 범위 (프로그램 설치 제외) Upload range (Excluding program installation)  
+  - chapter3-chapter29 
+  - 교안 목차 Table of Contents  
+  * chapter1 : Understanding the Java language
   * chapter2 : JDK and eclipse install and settings
   * chapter3 : Annotation, DataType, Constant, Type Transformation, Operator  
   * chapter4 : if , switch  
