@@ -1,5 +1,5 @@
 # java  
-## 학원 수업 내용 업로드 Upload the contents of the academy class   
+### 학원 수업 내용 업로드 Upload the contents of the academy class   
 * 수업기간 class period of time  
  * 2021.04.13-2021.05.04    
 * 프로그래밍 언어, 프로그램  programming language, programs
